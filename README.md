@@ -3,29 +3,38 @@
 
 ###### Content
 [Graphics](https://github.com/m4r11/Athenaeum/tree/main/Graphics)
+
 ˋˋˋ
 Raytracing approaches & thesis to deepen the knowledge on  
 how to emulate light, objects and render 3D images.  
 ˋˋˋ
+
 [C programing](https://github.com/m4r11/Athenaeum/tree/main/C_programming)
+
 ˋˋˋ
 Compilation of useful resources to better program in c.  
 ˋˋˋ
+
 [CS math](https://github.com/m4r11/Athenaeum/tree/main/CS_math)
+
 ˋˋˋ
 My personal approach to learn math from scratch  
 ˋˋˋ
+
 ###### Motivation  
+
 ˋˋˋ
 I started my programing journey at 42 Lisboa (as you already may have noticed) and  
 through this path, of peer-to-per learning, with no teachers, and no recomended text  
-books, the library of our own choosing is open to interpretation.  
+books, the library of our own choosing is open for individual creation.  
 As I came across important online documents worth keeping I decided to  
 archive them for future reading/reference and to share the findings with my   
 collegues, for debate and educational purposes.  
 Enjoy the reading 👽  
 ˋˋˋ
-###### Copy-Right  
+
+###### Copy-Right 
+ 
 ˋˋˋ
 I don't own the rights to distribute this content.  
 I'm not making any money with this content. 
