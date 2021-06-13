@@ -20,7 +20,7 @@ Compilation of useful resources to better program in c.
 [CS math](https://github.com/m4r11/Athenaeum/tree/main/CS_math)
 
 ```
-My personal approach to learn math from scratch  
+Learn math from scratch.  
 ```
 
 ###### Motivation  
