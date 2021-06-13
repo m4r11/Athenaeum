@@ -1,7 +1,7 @@
 # Athenaeum
 ### A collection of resources and interesting information
 
-![ateneu_imagem](https://azuma-hikari.tumblr.com/post/653917857471774720)
+![ateneu_imagem](https://github.com/m4r11/Athenaeum/blob/main/media/0fda7d2c49e237cfdc34fdc7730bb54c.jpeg)
 
 ###### Content
 [Graphics](https://github.com/m4r11/Athenaeum/tree/main/Graphics)
